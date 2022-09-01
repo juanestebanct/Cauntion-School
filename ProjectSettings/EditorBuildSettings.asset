@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/escena.unity
+    guid: 1154657aa70f63c44b4d5da77cc9e07f
+  - enabled: 1
+    path: Assets/Scenes/inicio.unity
+    guid: ad9f8ce0a9f7d0e4185db329fb2d81b4
+  - enabled: 1
+    path: Assets/Scenes/objetivo.unity
+    guid: 1b7cf49727dfa234f80f1fe0c661d253
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/atrapado.unity
+    guid: 57a219181a619494bac26e0b8e2c1c0f
+  - enabled: 1
+    path: Assets/Scenes/finalbueno.unity
+    guid: 2a6169aaea2c00d48913e77cca611de6
+  - enabled: 1
+    path: Assets/Scenes/finalmalo.unity
+    guid: a93b1ab71e1a8ca41b207b92f5d8241c
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: bba808f0e612adb44ae03c8db90a34f6
+  m_configObjects: {}

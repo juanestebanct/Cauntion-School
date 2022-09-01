@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 2ca40f3075bafc94e88d7ecc481a4476
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -970172222478475685
+    second: BALDOSAS_0
+  - first:
+      213: 7962113005248138275
+    second: BALDOSAS_1
+  - first:
+      213: -4945858986831977017
+    second: BALDOSAS_2
+  - first:
+      213: -2279462540174164195
+    second: BALDOSAS_3
+  - first:
+      213: -454539828011062507
+    second: BALDOSAS_4
+  - first:
+      213: -3618468252669771228
+    second: BALDOSAS_5
+  - first:
+      213: -8908129985837057039
+    second: BALDOSAS_6
+  - first:
+      213: 4972833457383232801
+    second: BALDOSAS_7
+  - first:
+      213: 5958101314906785224
+    second: BALDOSAS_8
+  - first:
+      213: 7422897456964683839
+    second: BALDOSAS_9
+  - first:
+      213: -5742544274843364184
+    second: BALDOSAS_10
+  - first:
+      213: -777606079814485128
+    second: BALDOSAS_11
+  - first:
+      213: 6914710523933486254
+    second: BALDOSAS_12
+  - first:
+      213: 5551597576534970879
+    second: BALDOSAS_13
+  - first:
+      213: -6891759983927848331
+    second: BALDOSAS_14
+  - first:
+      213: -5204836568962935721
+    second: BALDOSAS_15
+  - first:
+      213: 1741916670054389106
+    second: BALDOSAS_16
+  - first:
+      213: 5493647471948005534
+    second: BALDOSAS_17
+  - first:
+      213: -3152574454922038174
+    second: BALDOSAS_18
+  - first:
+      213: 4939806013341026604
+    second: BALDOSAS_19
+  - first:
+      213: -3240500137673078512
+    second: BALDOSAS_20
+  - first:
+      213: -8961932078494479248
+    second: BALDOSAS_21
+  - first:
+      213: 6124903359390480125
+    second: BALDOSAS_22
+  - first:
+      213: -500268340643800479
+    second: BALDOSAS_23
+  - first:
+      213: 4921651563925118040
+    second: BALDOSAS_24
+  - first:
+      213: 3547772924222266437
+    second: BALDOSAS_25
+  - first:
+      213: -1059520091640260660
+    second: BALDOSAS_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1064
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BALDOSAS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7070
+        width: 2153
+        height: 2157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e183cf0814982f0800000000000000
+      internalID: -970172222478475685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_1
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 7080
+        width: 2171
+        height: 2159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c455bd79b1f7e60800000000000000
+      internalID: 7962113005248138275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_2
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 7082
+        width: 2157
+        height: 2157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5e4bca477cc5bb0800000000000000
+      internalID: -4945858986831977017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_3
+      rect:
+        serializedVersion: 2
+        x: 8319
+        y: 7094
+        width: 2157
+        height: 2145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ffb1695e8bd50e0800000000000000
+      internalID: -2279462540174164195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_4
+      rect:
+        serializedVersion: 2
+        x: 11081
+        y: 7070
+        width: 2156
+        height: 2157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b22274f6621b9f0800000000000000
+      internalID: -454539828011062507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_5
+      rect:
+        serializedVersion: 2
+        x: 13921
+        y: 7070
+        width: 2145
+        height: 2169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4220790bb4e98cdc0800000000000000
+      internalID: -3618468252669771228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4639
+        width: 4
+        height: 2154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb3d25a9f6ff5480800000000000000
+      internalID: -8908129985837057039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4845
+        width: 2153
+        height: 2170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125518aaead030540800000000000000
+      internalID: 4972833457383232801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_8
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 4804
+        width: 2165
+        height: 2164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c58eca149d6fa250800000000000000
+      internalID: 5958101314906785224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_9
+      rect:
+        serializedVersion: 2
+        x: 5770
+        y: 4773
+        width: 2165
+        height: 2164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c78ea8ed630760800000000000000
+      internalID: 7422897456964683839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_10
+      rect:
+        serializedVersion: 2
+        x: 8319
+        y: 4796
+        width: 2157
+        height: 2157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4120748626e40b0800000000000000
+      internalID: -5742544274843364184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_11
+      rect:
+        serializedVersion: 2
+        x: 11081
+        y: 4639
+        width: 2156
+        height: 2172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b397de3636535f0800000000000000
+      internalID: -777606079814485128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_12
+      rect:
+        serializedVersion: 2
+        x: 13921
+        y: 4639
+        width: 2145
+        height: 2156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eace5b7f59cf5ff50800000000000000
+      internalID: 6914710523933486254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2208
+        width: 2169
+        height: 2423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1594d059c3b0d40800000000000000
+      internalID: 5551597576534970879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_14
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 2459
+        width: 2157
+        height: 2164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5729ab80fcc8b50a0800000000000000
+      internalID: -6891759983927848331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_15
+      rect:
+        serializedVersion: 2
+        x: 5731
+        y: 2404
+        width: 2157
+        height: 2156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754500987b4b4c7b0800000000000000
+      internalID: -5204836568962935721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_16
+      rect:
+        serializedVersion: 2
+        x: 8319
+        y: 2467
+        width: 2157
+        height: 2156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2755cea7bf78c2810800000000000000
+      internalID: 1741916670054389106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_17
+      rect:
+        serializedVersion: 2
+        x: 11081
+        y: 2404
+        width: 2156
+        height: 2156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e900fa6e44b5d3c40800000000000000
+      internalID: 5493647471948005534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_18
+      rect:
+        serializedVersion: 2
+        x: 13921
+        y: 2208
+        width: 2145
+        height: 2149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b66e7c3ecf34d0800000000000000
+      internalID: -3152574454922038174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 28
+        width: 2157
+        height: 2172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29c78c9567bd8440800000000000000
+      internalID: 4939806013341026604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_20
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 35
+        width: 2165
+        height: 2164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019446f2b4e6703d0800000000000000
+      internalID: -3240500137673078512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_21
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 24
+        width: 2157
+        height: 2152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c8828c142d0a380800000000000000
+      internalID: -8961932078494479248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_22
+      rect:
+        serializedVersion: 2
+        x: 8319
+        y: 0
+        width: 2157
+        height: 2145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f01c7727000550800000000000000
+      internalID: 6124903359390480125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_23
+      rect:
+        serializedVersion: 2
+        x: 11151
+        y: 4
+        width: 2157
+        height: 2188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a5d8f3890be09f0800000000000000
+      internalID: -500268340643800479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_24
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 0
+        width: 689
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c900875083d4440800000000000000
+      internalID: 4921651563925118040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_25
+      rect:
+        serializedVersion: 2
+        x: 5739
+        y: 0
+        width: 2156
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c540c7da83c3130800000000000000
+      internalID: 3547772924222266437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAS_26
+      rect:
+        serializedVersion: 2
+        x: 13923
+        y: 0
+        width: 688
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc794691714db41f0800000000000000
+      internalID: -1059520091640260660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
